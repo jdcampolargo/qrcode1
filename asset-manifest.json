@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/qrcode_website/static/js/main.55674d22.js",
-    "index.html": "/qrcode_website/index.html",
-    "main.55674d22.js.map": "/qrcode_website/static/js/main.55674d22.js.map"
+    "main.js": "/qrcode1/static/js/main.d8915cac.js",
+    "static/media/cs124logo.png": "/qrcode1/static/media/cs124logo.cccc2bee0858d49f6b5c.png",
+    "index.html": "/qrcode1/index.html",
+    "main.d8915cac.js.map": "/qrcode1/static/js/main.d8915cac.js.map"
   },
   "entrypoints": [
-    "static/js/main.55674d22.js"
+    "static/js/main.d8915cac.js"
   ]
 }
